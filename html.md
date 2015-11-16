@@ -42,6 +42,7 @@ are know as **nested tags** and are also know as **children** of the outer tags.
 
 ###Head and Body
 ![] (http://i2.kym-cdn.com/photos/images/original/000/221/246/html_tattoo_9088.png)
+
 HTML has  `<head>` and ` <body>` tags. The body contains the main contents of the HTML (every thing you can see) and the head contains the `<title>` tags (what you see on the browser tabs) and information for the page which your users dont see (link to style and Javascript files etc).
 for example:
 ```
@@ -77,10 +78,10 @@ The content your users will see. In this session we will use:
 #CSS
 
 ##What is CSS?
-CSS stands for **Cascading Style Sheet**
-CSS provides styling for your site. (ie. color, font-size etc)
+CSS stands for **Cascading Style Sheet**  
+CSS provides styling for your site. (ie. color, font-size etc)  
 
-###Some Basic CSS
+###Some Basic CSS  
 ```
 body {
   background-color:black;
@@ -91,9 +92,9 @@ p {
 }
 ```
 
-CSS is made up of styling that refers to HTML elements/Classes/ID's. As seen above, we are applying styles to the body and p elements.
+CSS is made up of styling that refers to HTML elements/Classes/ID's. As seen above, we are applying styles to the body and p elements.  
 
-But to target specific areas, we can use classes to provide styling.
+But to target specific areas, we can use classes to provide styling.  
 ```
 .text{
 font-size:10px;
