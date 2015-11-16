@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+  font-family: cursive;
+  font-size: 40px;
+}
+
+h2 {
+  border-style: dashed;
+  border-color: green;
+  font-size: 24px;
+}
+
+.text {
+  background-color: yellow;
+}
+
+img {
+  height: 70px;
+}
