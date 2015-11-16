@@ -74,3 +74,30 @@ The content your users will see. In this session we will use:
   
   `<img src="https://media.licdn.com/media/p/8/005/0a3/300/0f370ec.png" alt="Founders & Coders">`.
 
+#CSS
+
+##What is CSS?
+CSS stands for **Cascading Style Sheet**
+CSS provides styling for your site. (ie. color, font-size etc)
+
+###Some Basic CSS
+```
+body {
+  background-color:black;
+}
+p {
+  font-size:24px;
+  text-align:center;
+}
+```
+
+CSS is made up of styling that refers to HTML elements/Classes/ID's. As seen above, we are applying styles to the body and p elements.
+
+But to target specific areas, we can use classes to provide styling.
+```
+.text{
+font-size:10px;
+}
+```
+
+
